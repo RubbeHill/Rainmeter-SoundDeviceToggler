@@ -1,0 +1,3 @@
+NirCmd is released as "freeware" and the creator, Nir Sofer, allows you to
+distribute it as long as you include all files and don't modify it.
+More info here: http://www.nirsoft.net/utils/nircmd.html 

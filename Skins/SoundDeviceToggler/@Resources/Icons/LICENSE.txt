@@ -1,0 +1,2 @@
+All icons used are available under Apache license version 2.0.
+More info here: https://material.io/tools/icons/?style=baseline 
