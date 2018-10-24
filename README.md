@@ -4,7 +4,10 @@ You just have to insert the name of two of your sound devices, and then you can 
 The skin uses a small command-line utility called NirCmd to set the default sound device.
 It also comes with a small setting skin, so you don't have to change any code to customize it.
 
-# Licenses
+## Just want the skin?
+Download it [here](https://drive.google.com/open?id=1t4u8iCh6pO6Rnajg7qNp9wb84dxoCuT_)
+
+## Licenses
 This software is available to you under a [Creative Commons Attribution-Noncommercial-Share Alike 3.0 License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 Feel free to change it to your liking :)
 
