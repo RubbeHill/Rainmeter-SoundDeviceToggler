@@ -17,6 +17,3 @@ ImageHeight=50
 
 ; Don't change these if you don't know what you are doing.
 CurrentDeviceNumber=0
-Device0=Speaker
-Device1=Speakers on heads
-Height=80
