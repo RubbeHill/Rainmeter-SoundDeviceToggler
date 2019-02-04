@@ -5,7 +5,7 @@ The skin uses a small command-line utility called NirCmd to set the default soun
 It also comes with a small setting skin, so you don't have to change any code to customize it.
 
 ## Just want the skin?
-Download it [here](https://drive.google.com/open?id=1t4u8iCh6pO6Rnajg7qNp9wb84dxoCuT_)
+Download it [here](https://www.dropbox.com/s/4hhoshqd6g4fkaq/SoundDeviceToggler_1.0.1.rmskin?dl=1)
 
 ## Licenses
 This software is available to you under a [Creative Commons Attribution-Noncommercial-Share Alike 3.0 License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
