@@ -17,3 +17,4 @@ ImageHeight=50
 
 ; Don't change these if you don't know what you are doing.
 CurrentDeviceNumber=0
+ShowSettings=0
